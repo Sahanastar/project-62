@@ -1,0 +1,13 @@
+body{
+	background-color: aqua;
+	text-align: center;
+}
+
+img{
+	height: 300px;
+	width: 300px;
+}
+.corosel inner img{
+	height: 500px;
+}
+
